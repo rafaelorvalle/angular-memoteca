@@ -1,0 +1,32 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Nay",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor'",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "Edição funciona",
+      "autoria": "Dev Angular",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 4
+    }
+  ]
+}
